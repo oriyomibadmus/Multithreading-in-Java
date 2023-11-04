@@ -3,6 +3,7 @@
 This exercise involves running a program that uses numerical integration to calculate the elapsed time taken by a program using one processor versus several threads. The goal of the exercise is to compare the performance of a single-threaded program with a multithreaded program and analyze the impact of using multiple threads on the elapsed time and CPU usage. The results are shown below
 
 ## Steps Taken
+### Step 1
 1. NumInt.java file is compiled using the javac command.
   ```javac NumInt.java```
 <img width="656" alt="javac " src="https://github.com/oriyomibadmus/Multithreading-in-Java/assets/20837551/fe7db1b4-ffb4-476b-add8-26d4c0681fff">
